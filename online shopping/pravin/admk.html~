@@ -1,0 +1,45 @@
+<html>
+<head><title>admk</title><style>body{background-image:url('wp15.jpg');
+background-repeat:repeat;
+background-position:center;color:black;}
+background-image{opacity:0.4;
+filter:alpha(opacity=40);}
+table
+{
+background-image:url('wp18.jpg');
+}
+</style>
+</head>
+
+<body>
+<h1 style="text-align:center;color:red;background-color:black;margin-bottom:3;height=70;width=700;">ALL INDIA ANNA DRAVIDA MUNNETRA KAZHAGAM</h1>
+<div id="container" style="height:550;width:1300;">
+<div id="menu" style="float:left;height:700;width:160;margin-right:5;">
+<table width="150" height="220" border="0"><tr><td>
+  <u>Name:</u><br>AIADMK</td></tr>
+  <tr><td><U>Leader:</u><br>M.G.<BR>Ramachandran</td></tr>
+  <tr><td><U>Gen.Secretary:</U><br>J.Jayalalithaa</td></tr>
+  <tr><td>Flag:<br>  <img src="admkflag.jpg" height="85" width="150"></td></tr>
+  <tr><td>Symbol:<br>  <img src="admksym.png" height="85" width="150"></td></tr>
+</table><br>
+<a href="admk1.jpg"  target="_blank"><img src="admk1.jpg" height="295" width="157"></a>
+</div>
+<div id="menu" style="float:right;">
+<img src="jaya.jpg" height="300" width="300"><br><br>
+<img src="mgr.jpg" height="300" width="300"></div>
+<div id="content" style="color:black;width:950;margin-left:5;">
+<p>The party was founded in 1972 as Anna Dravida Munnetra Kazhagam (ADMK) by MGR, a veteran Tamil film star and a popular politician, as a breakaway faction of the Dravida Munnetra Kazhagam (DMK) led by M. Karunanidhi, the then chief minister of Tamil Nadu, owing to serious differences between the two.Later, the party leaders prefixed All India (AI) tag before the party name.Since its inception, the relationship between the AIADMK and DMK has been marked with mutual contempt. MGR used his fan network for building the party cadre and estimates claim his party recruited more than a million members from the first two months of creation. The party tasted victory for the first time by winning the Dindigul parliamentary by-election in 1973 and also won the Coimbatore assembly by-election a year later. AIADMK grew close to the Congress by supporting the Emergency which occurred between 1975 and 1977.</p>
+
+<p>Under Jayalalithaa's regime, AIADMK has spread out beyond Tamil Nadu and Puducherry and state units have been established in the states of Kerala, Karnataka and Andhra Pradesh. The party floated 54 candidates across the state of Kerala in the 2006 assembly election and had contested on its own. In Karnataka the party had members in the state assembly and has influence in the Tamil-speaking areas of Bangalore and Kolar district. AIADMK has its following in various other places like Mumbai and Delhi. There are also units in various countries where the Tamil population is spread out.</p><br>
+
+<b><u>Ilaignar Pasarai:</u></b>
+<p>During here second regime, jayalalithaa felt the need for young blood in the party. Due to various reasons, the plan was at stake. But she, as the opposition leader during the period 2006-11 launched two new wings, "The Ilaignar mattrum Ilam pengal pasarai", the latter being exclusively for women. Both the factions aim at spreading the policies of the party among the youngsters and they regularly engage themselves in social activities. Blood donation camp, awreness camp, village cleaning, to mention a few..</p>
+
+<p>The ADMK moved from the anti-Hindi and anti-Brahman stand of the DMK party ideologies formulated by Annadurai. MGR indicated he never "favored anti-Brahminism and ADMK would oppose ethnic exclusion". Two Brahmin ladies Janaki and Jayalalitha were later fighting for the lead position. The ADMK sought to depoliticize the education policy of the government by not insisting on the medium of education to be Tamil language. Policies of ADMK were targeted to the poorer segments of Tamil society - poor, rickshaw pullers, and destitute women and centralizing the massive noon meal scheme for children. There was ambivalent approach towards the reservation policy and interest of farmers.</p></div>
+
+<div id="footer">
+<table align="center" style="text-align:center;color:blue;" height="40" width="700">
+<tr><td><a href="project.html">Home</a></td><td><a href="admk-images.html">Images</a></td><td><a href="form-admk.html">Register</a></td><td>Contact</td><td><a href="dmk.html">Dmk</a></td><td><a href="bjp.html"></a></td><td><a href="congress.html">Congress</a></td><td><a href="bjp.html">Bjp</a></td></tr></table></div>
+</div>
+</body>
+</html>

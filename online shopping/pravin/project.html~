@@ -1,0 +1,56 @@
+<html>
+<head><title>young india</title>
+<style>
+body {background-image:url('wp1.jpg');
+background-repeat:repeat;
+background-position:center;color:white;}
+table,th,td
+{
+border:1px solid white;background-image:url('wp2.jpg');text-align:center;
+}
+h1{background-image:url('wp9.jpg');}
+a{color:white;}
+</style>
+</head>
+
+<body>
+<div id="container" style="height:510;width=1590;">
+<div id="header" style="text-align:center;color:red;">
+<h1 style="margin-bottom:0;">YOUNGSTERS & INDIAN POLITICS</h1></div>
+<table align="center" height="40" width="700" color="white"><tr><td><a href="project.html">Home</a></td><td><a href="images.html">Images</a></td><td><a href="register.html">Registration</a></td><td>About</td><td><a href="contact.html">Contact</a></td></tr></table>
+<div id="menu" style="float:left;height:600;width:190;margin-top:4;">
+<table width="180" height="220">
+<tr>
+<td><a href="congress.html">CONGRESS</a></td>
+</tr><tr>
+<td><a href="bjp.html">BJP</a></td>
+</tr>
+<tr>
+<td><a href="dmk.html">DMK</a></td></tr>
+<tr><td><a href="admk.html">AIADMK</a></td></tr></table><br>
+<img src="pro11.jpg" height="250" width="150">
+</div>
+
+<div id="menu" style="float:right;margin-top:2;">
+<a href="pro7.jpg" target="_blank"><img src=pro9.jpg height=270 width=270></a>
+<br><img src="pro10.jpg" height=270 width=270></div>
+<div id="content" style="margin-left:5;width:1060;">
+<p>Democracy is the buzz word for our political system. But is it really so? Is it democracy that a nation where a majority of population is below 40 elects a majority of people above 60 to power? Are we really satisfied with the way our country is being governed?
+
+The country desperately needs some young leaders who personify energy, enthusiasm, morality, and diligence. No doubt we have progressed a lot in the last 62 years but the development pace would have been completely different had some young torchbearers led this process of development</p><p>
+
+At the time of independence, Gandhi called upon the youth to participate actively in the freedom movement. Young leaders likes Nehru came to his reckoning and led the movement. But this is not the case now<p>
+
+<!..div id="content" style="margin-left:5;width:960;float:right;color:white;"..>
+<p><h2>Why is it so?</h2>
+  There may be two reasons for this:<ul><li>One may be that the youth today are not interested in actively participating in the political field. They are content with what they are doing and how the country is being governed. But this reason seems to hold no ground seeing the discontent shown by the youngsters towards cases like reservation, Jessica lal murder case etc.
+
+<li>Second reason may be that young people are not given opportunities to prove themselves claiming that they are not equipped with experience to participate actively in the governance of the country. This reason seems to be more logical seeing the monopoly of old leaders in almost all the major political parties of the country.</ul>
+
+As for the youth of our country, they can contribute in more ways than just contesting elections. Much can be done in areas like educating people, raising awareness about various social ills, and many other areas.</p>
+
+</div>
+
+</div>
+</body>
+</html>

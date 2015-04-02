@@ -1,0 +1,43 @@
+﻿<html>
+<head><title>dmk</title><style>body{background-image:url('wp11.jpg');
+background-repeat:repeat;
+background-position:center;color:black;}
+table
+{
+background-image:url('wp13.jpg');
+}
+</style>
+</head>
+
+<body>
+<h1 style="text-align:center;color:red;background-color:black;margin-bottom:3;height=70;width=700;">DRAVIDA MUNNETRA KAZHAGAM</h1>
+<div id="container" style="height:510;width:1300;">
+<div id="menu" style="float:left;height:700;width:160;margin-right:5;">
+<table width="150" height="220" border="0"><tr><td>
+  <u>Name:</u><br>DMK</td></tr>
+  <tr><td><u>Leader:</u><br>M.Karunanidhi</td></tr>
+  <tr><td><u>Gen.Secretary:</u><br>K.Anbalagan</td></tr>
+  <tr><td>Flag:<br>  <img src="dmk.jpg" height="85" width="150"></td></tr>
+  <tr><td>Symbol:<br>  <img src="rsun.gif" height="85" width="150"></td></tr>
+</table><br>
+<img src="dmk1.jpg" height="295" width="160">
+</div>
+<div id="menu" style="float:right;">
+<img src="dmk22.jpg" height="300" width="300"><br><br>
+<img src="dmk5.jpg" height="300" width="300"></div>
+<div id="content" style="color:black;width:1000;margin-left:5;font:2;">
+<p>The youth have always been the backbone of DMK. It was the only unique party that allowed the youth to showcase their thoughts and freely exhibit their ideals. Traditionally Dravidian parties were patronized by the youths, as Anna used to say  “ The DMK Public meetings were evening time universities where the youths were imbibed with the spirit of race, language and culture.” The meetings were an arena for open minds were youngsters not only imparted information on the histories, cultures and prospects for the future but absorbed as much, which created a generation of new thoughts When Kalaignar presided over Nellai District Conference of the DMK on August 6th and 27th, 1950, he was only 26 years old. The radical change had begun which Stalin took over ardently. Times when youth were carefree and egocentric some of them decided that change was required and it had to start then, there, with them!</p>
+
+<p>When there were any conferences or agitations, youths were in the forefront in the DMK. When Anna found the party in 1949; most of those in the leadership and cadre level were youngsters. But after 31 years in 1980 when they had grown old a new generation of cadres had emerged. In order to constructively channelise the Zeal and energy of the youths, the DMK youth wing was formed with Stalin as one of the secretary in the year 1980, starting with party works at Gopalapuram.</p><br>
+
+<b><u>Strengths and Tasks of the Youth Wing:</u></b>
+<p>Several thousand youths came forward to join the youth wing. As a result till the end of 2004, 16 lakhs members were enrolled in the youth wing. After the enrollment of new members began another 4.42 lakh members who registered their names. The setting up of a separate office for the youth wing in Chennai has a background. On 28.01.1964 a plot on Anna Salai was acquired for DMK. On 15.06.1964 the DMK head quarters Anbagam was inaugurated there by Anna. Now the party headquaters is functioning at Anna Arivalayam in a huge building.</p>
+
+<p>The youth wing required an office and the party headquaters was asked to allot 'Anbagam' for it. Similar request was also placed by Anna Thozhisanga Peravai. The Partly General Secretary Prof K. Anbazhagan announced that whoever gave first, a fund of Rs 10 Lakhs would get the buildings and created a healthy competition. Following this youth wing secretary Stalin launched a state wide tour and collected funds at flag hoisting functions and mobilized Rs 11 lakhs. The fund was handed over to the headquarters and on 03.06.1988. Kalaignar inaugurated the youth wing office at 'Anbagam' in the presence of Prof K. Anbazhagan.</p></div><br><br><br>
+
+<div id="footer">
+<table align="center" style="text-align:center;color:blue;" height="40" width="700">
+<tr><td><a href="project.html">Home</a></td><td><a href="dmk-images.html">Images</a></td><td><a href="form-dmk.html">Register</a></td><td><a href="contact.html">Contact</a></td><td><a href="bjp.html">Bjp</a></td><td><a href="admk.html">Admk</a></td><td><a href="congress.html">Congress</a></td></tr></table></div>
+</div>
+</body>
+</html>

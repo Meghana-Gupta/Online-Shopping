@@ -1,0 +1,186 @@
+<html>
+<head>
+<title>Sign up</title>
+
+	<head>
+	
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+<!--		<script src="js/jquery.dropotron.min.js"></script>-->
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+	</head>	
+
+
+
+
+<!--script-->
+<script>
+function validate()
+{
+  if(document.myform.Name.value == "" )
+   {
+     alert( "Please provide your name!" );
+     document.myform.name.focus() ;
+     return false;
+   }
+  
+
+
+   if(document.myform.personaladdress.value == "" )
+   {
+     alert( "Please provide your Personal Address!" );
+     document.myform.personaladdress.focus() ;
+     return false;
+  }
+   if ( ( myform.sex[0].checked == false ) && ( myform.sex[1].checked == false ) )
+   {
+   alert ( "Please choose your Gender: Male or Female" );
+   return false;
+   }   
+   if( document.myform.City.value == "-1" )
+   {
+     alert( "Please provide your City!" );
+     document.myform.City.focus() ;
+     return false;
+   }   
+   if( document.myform.State.value == "-1" )
+   {
+     alert( "Please provide your Select State!" );
+     
+     return false;
+   }
+   if( document.myform.pincode.value == "" ||
+           isNaN( document.myform.pincode.value) ||
+           document.myform.pincode.value.length != 6 )
+   {
+     alert( "Please provide a pincode in the format ######." );
+     document.myform.pincode.focus() ;
+     return false;
+   }
+
+   if( document.myform.password.value == "" ||
+           isNaN( document.myform.password.value) ||
+           document.myform.pincode.value.length != 8 )
+   {
+     alert( "Please provide a password in the format ######." );
+     document.myform.pincode.focus() ;
+     return false;
+   }
+
+
+
+}
+</script>
+</head>
+<body background="pic05.jpg"
+style="height: 0;
+    padding: 0; 
+    background-position:center center fixed;
+    background-size: 100% auto; background-repeat:no-repeat;">
+
+<body>
+<form action="db.php" name="myform" method="post" onsubmit="return(validate());">
+
+
+<div style="margin-left:10%;margin-right:10%;margin-top:5%;">
+
+ 
+
+
+<table cellpadding="2" width="20%"  align="centre"
+cellspacing="2">
+
+
+
+<tr>
+<td><h3>Name</h3></td>
+<td><h3><input type="text" name="name" minlength="2" id="name" size="30"></h3></td>
+
+</tr>
+
+
+
+
+<tr>
+<td><h3>Personal Address</h3></td>
+<td><h3><textarea name="address"
+id="personaladdress" rows=5 cols=31 ></textarea></h3></td>
+</tr>
+
+<tr>
+<td><h3>Sex</h3></td>
+<td><h3><input type="radio" name="sex" value="male" size="10">Male
+<input type="radio" name="sex" value="Female" size="10">Female</h3></td>
+</tr>
+
+<tr>
+<td><h3>City</h3></td>
+<td><h3><select name="city">
+<option value="-1" selected>select..</option>
+<option value="New Delhi">NEW DELHI</option>
+<option value="Mumbai">MUMBAI</option>
+<option value="Goa">GOA</option>
+<option value="Patna">PATNA</option>
+<option value="Chennai">CHENNAI</option>
+</select></h3></td>
+</tr>
+
+
+<tr>
+<td><h3>State</h3></td>
+<td><h3><select Name="state">
+<option value="-1" selected>select..</option>
+<option value="New Delhi">NEW DELHI</option>
+<option value="Mumbai">MUMBAI</option>
+<option value="Goa">GOA</option>
+<option value="Bihar">BIHAR</option>
+<option value="TamilNadu">TamilNadu</option>
+</select></h3></td>
+</tr>
+<tr>
+<td><h3>PinCode</h3></td>
+<td><h3><input type="text" name="pincode" id="pincode" size="30"></h3></td>
+
+</tr>
+<tr>
+<td><h3>EmailId</h3></td>
+<td><h3><input type="text" name="emailid" id="emailid" size="30"></h3></td>
+</tr>
+
+<tr>
+<td><h3>DOB</h3></td>
+<td><h3><input type="date" name="dob" id="dob" size="30"></h3></td>
+</tr>
+
+<tr>
+<td><h3>MobileNo</h3></td>
+<td><h3><input type="text" name="mobileno" id="mobileno" size="30"></h3></td>
+</tr>
+<tr>
+<tr>
+<td><h3>Password</h3></td>
+<td><h3><input type="password" name="password" id="password" size="30"></h3></td>
+</tr>
+<tr>
+
+
+
+<td align=center colspan="2"><input type="submit" class="button alt" value="Submit Form" /></h3></td>
+</tr>
+</form>
+</table>
+</div>
+</form>
+
+</body>
+</html>

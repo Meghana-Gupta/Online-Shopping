@@ -1,0 +1,115 @@
+<html>
+
+<head>
+
+<style type="text/css">
+
+p{text-align:center;}
+body {background-image:url('bjp10.jpg');
+background-repeat:no-repeat;
+background-position:center;
+
+color:black;}
+a{color:red;}
+table{
+h1{background-image:url('wp21.jpg');
+}</style>
+
+<script>
+
+function myFunction()
+
+{
+
+var x;
+
+
+var a=alert("Please check your details and ensure that you have'nt left any field blank.Cannot re-claim or re-enter in future.");
+var name=prompt("Please re-enter your full name");
+
+
+if (name!=null)
+  {
+  x="Hello " + name + "! Thankyou for registering in BJP. Your ID card will reach you soon";
+  
+document.getElementById("demo").innerHTML=x;
+  }
+}
+</script>
+
+<title>
+Form</title></head>
+
+
+
+<body>
+<h1 style="text-align:center;background-color:blue;color:white;">YOUTH WING REGISTRATION FORM</h1>
+<br>
+
+<div id="container" style="width:1390;height:800;">
+<div id="menu" style="height:350;width:350;float:right;">
+<img src="bjp12.jpg" height="350" width="350">
+</div>
+<form name="myForm">
+First name: <input type="text" name="name"><br><br>
+
+Last name: <input type="text" name="lname"><br><br>
+
+D.O.B (DD/MM/YY):  <input type="text" name="dob"><br><br>
+
+Contact number:  <input type="text" name="contact"><br><br>
+
+Mail-Id:   <input type="text" name="mail"><br><br>
+
+New Password: <input type="password" name="password"><br><br>
+
+R-enter New Password: <input type="password" name="password"><br><br>
+
+Sex:<br>
+<input type="radio" name="sex" value="male">Male<br>
+<input type="radio" name="sex" value="female">
+Female<br><br>
+Donation(in rps):  <select name="donation">
+
+<option value="50">50</option>
+<option value="100">100</option>
+
+<option value="500">500</option>
+
+<option value="1000">1000</option>
+
+<option value="Others">Others</option>
+</select><br><br>
+
+<input type="checkbox" name="vehicle">I agree to abide by the rules of the party <br>
+
+<input type="checkbox" name="vehicle">I agree to work for the upliftment of the people and party
+</form> 
+
+
+<p id="demo"><br>Check your details and click "Confirm"
+</p>
+
+
+
+
+
+<button type="button" onclick="myFunction()"><font align="center">Confirm</font></button>
+
+
+<br><br><br><div id="footer" style="background-color:gre;
+background-repeat:repeat;
+background-position:center;
+
+color:white;float:bottom;">
+<table border="2" align="center">
+<tr>
+<td>
+<a href="project.html"><h2>Home</h2></a></td>
+<td>
+<a href="bjp.html"><h2>Bjp homepage</h2></na></td></tr></table></div>
+
+</body>
+
+</html> 
+
